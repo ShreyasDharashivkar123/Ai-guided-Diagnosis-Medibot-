@@ -28,7 +28,7 @@ Figures below show chatbot UI
 
 ![image](https://github.com/ShreyasDharashivkar123/Ai-guided-Diagnosis-Medibot-/assets/126081774/c49fbe39-c42d-4fbc-84a8-85a7825ba679)
 
-                                             1.1.5 Check Diseases of Medibot on CMD (Command Prompt)
+                                    1.1.5 Check Diseases of Medibot on CMD (Command Prompt)
 
 
 
